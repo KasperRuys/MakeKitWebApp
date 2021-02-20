@@ -1,0 +1,10 @@
+{
+  "name": "MakeKitApp",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
